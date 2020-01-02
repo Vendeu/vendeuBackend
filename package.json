@@ -19,7 +19,7 @@
   "license": "MIT",
   "homepage": "https://bitbucket.org/cheeseflan/backend-vendeu#readme",
   "devDependencies": {
-    "morgan": "^1.8.2",
+    "morgan": "^1.9.1",
     "nodemon": "^1.11.0"
   },
   "dependencies": {
